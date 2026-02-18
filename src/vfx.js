@@ -15,7 +15,7 @@ export async function loadVfxAssets() {
 
   await Promise.all(uniquePaths.map(async (basePath) => {
     const [meta, atlas] = await Promise.all([
-      fetch(`${basePath}.json`).then((r) => r.json()),
+      fetch(`${import.meta.env.BASE_URL}${basePath}.json`).then((r) => r.json()),
       Assets.load(`${basePath}.png`),
     ]);
 

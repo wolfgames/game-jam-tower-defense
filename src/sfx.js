@@ -3,9 +3,10 @@ import { Howl } from 'howler';
 let howl = null;
 
 export async function loadSfx() {
-  const data = await fetch('assets/sfx/audiosprite.json').then((r) => r.json());
+  const base = import.meta.env.BASE_URL;
+  const data = await fetch(`${base}assets/sfx/audiosprite.json`).then((r) => r.json());
   howl = new Howl({
-    src: data.src.map((s) => `assets/sfx/${s}`),
+    src: data.src.map((s) => `${base}assets/sfx/${s}`),
     sprite: data.sprite,
   });
 }
