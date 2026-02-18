@@ -1,0 +1,38 @@
+{
+  "cannon_fire": "Heavy, deep boom of a cannon firing a single shot with a low-frequency punch and brief echo",
+  "cannon2_fire": "Reinforced cannon blast, slightly sharper and more metallic than the basic cannon",
+  "cannon3_fire": "Advanced high-caliber cannon discharge with a powerful concussive thud and reverb",
+
+  "mg_fire": "Short rapid-fire burst of a mounted machine gun, sharp staccato metallic clatter",
+  "mg2_fire": "Upgraded machine gun burst with a tighter, faster cadence and a slight mechanical whir",
+  "mg3_fire": "Heavy machine gun rattle, deeper tone with brass casings clinking undertone",
+
+  "missile_fire": "Missile launch whoosh with an initial ignition hiss followed by a rising rocket thrust",
+  "missile2_fire": "Enhanced missile launch with a louder ignition crack and a longer sustained exhaust trail",
+  "missile3_fire": "Advanced missile roaring out of the launcher with a deep rumble and high-pitched whistle",
+
+  "cannon_hit": "Cannon ball impact explosion, a punchy mid-range boom with debris scattering",
+  "cannon2_hit": "Heavier cannon shell detonation on impact with a sharper crack and dust burst",
+  "cannon3_hit": "Large-caliber shell exploding on contact with a thunderous low-end boom and shrapnel scatter",
+
+  "mg_hit": "Small bullet impact plink, a quick metallic ting against flesh or armor",
+  "mg2_hit": "Rapid bullet impacts with slightly meatier thuds and small spark sounds",
+  "mg3_hit": "Heavy round impacts with deeper penetration thuds and brief ricochet whine",
+
+  "missile_hit": "Missile explosion on impact, large fiery blast with a booming shockwave",
+  "missile2_hit": "Bigger missile detonation with extended rumble and crackling fire aftermath",
+  "missile3_hit": "Massive warhead explosion with a deep earth-shaking boom and prolonged fiery debris",
+
+  "zombie_hit": "Fleshy impact thud when a zombie takes damage, wet slap with a brief grunt",
+  "zombie_death": "Zombie collapsing with bones cracking, a guttural groan fading into silence",
+  "zombie_spawn": "Eerie rattling of bones assembling, a low growl rising as the skeleton emerges",
+
+  "wave_start": "Alert horn sounding the arrival of a new wave, urgent and foreboding",
+  "wave_complete": "Triumphant short fanfare chime signaling all enemies in the wave are eliminated",
+
+  "life_lost": "Ominous low tone with a glass-shattering accent when an enemy reaches the end of the path",
+
+  "tower_place": "Solid mechanical clunk of a tower snapping into position on the grid",
+  "tower_pickup": "Quick metallic scrape as a tower is lifted from its slot",
+  "tower_invalid": "Short error buzzer indicating an invalid tower placement location"
+}

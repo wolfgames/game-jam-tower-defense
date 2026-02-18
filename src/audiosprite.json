@@ -1,0 +1,116 @@
+{
+  "src": [
+    "audiosprite.webm",
+    "audiosprite.mp3"
+  ],
+  "sprite": {
+    "cannon_fire": [
+      0,
+      2000
+    ],
+    "cannon2_fire": [
+      2100,
+      3000
+    ],
+    "cannon3_fire": [
+      5200,
+      2000
+    ],
+    "mg_fire": [
+      7300,
+      1000
+    ],
+    "mg2_fire": [
+      8400,
+      2000
+    ],
+    "mg3_fire": [
+      10500,
+      1000
+    ],
+    "missile_fire": [
+      11600,
+      1000
+    ],
+    "missile2_fire": [
+      12700,
+      1000
+    ],
+    "missile3_fire": [
+      13800,
+      1000
+    ],
+    "cannon_hit": [
+      14900,
+      1000
+    ],
+    "cannon2_hit": [
+      16000,
+      2000
+    ],
+    "cannon3_hit": [
+      18100,
+      2000
+    ],
+    "mg_hit": [
+      20200,
+      2000
+    ],
+    "mg2_hit": [
+      22300,
+      1000
+    ],
+    "mg3_hit": [
+      23400,
+      1000
+    ],
+    "missile_hit": [
+      24500,
+      1000
+    ],
+    "missile2_hit": [
+      25600,
+      1000
+    ],
+    "missile3_hit": [
+      26700,
+      1000
+    ],
+    "zombie_hit": [
+      27800,
+      480
+    ],
+    "zombie_death": [
+      28380,
+      1000
+    ],
+    "zombie_spawn": [
+      29480,
+      6000
+    ],
+    "wave_start": [
+      35580,
+      1132
+    ],
+    "wave_complete": [
+      36812,
+      2000
+    ],
+    "life_lost": [
+      38912,
+      1000
+    ],
+    "tower_place": [
+      40012,
+      1000
+    ],
+    "tower_pickup": [
+      41112,
+      1399
+    ],
+    "tower_invalid": [
+      42611,
+      679
+    ]
+  }
+}
